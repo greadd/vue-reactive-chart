@@ -1,4 +1,6 @@
 # vue-charts
+## DEMO 
+https://app.netlify.com/sites/hardcore-brown-f7db26/overview
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
