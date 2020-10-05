@@ -1,6 +1,6 @@
 # vue-charts
 ## DEMO 
-https://app.netlify.com/sites/hardcore-brown-f7db26/overview
+https://hardcore-brown-f7db26.netlify.app/
 
 ## Project setup
 ```
